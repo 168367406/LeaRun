@@ -278,6 +278,7 @@
                 if (!$("body").hasClass("sidebar-collapse")) {
                     $("body").addClass("sidebar-collapse");
                 } else {
+
                     $("body").removeClass("sidebar-collapse");
                 }
             })
